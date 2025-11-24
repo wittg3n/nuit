@@ -70,11 +70,6 @@ export default function Home() {
                 />
               </label>
 
-              <p className="text-xs text-zinc-500">
-                Tip: copy the full watch URL from your browser instead of a shortened share
-                link to avoid YouTube 410 errors.
-              </p>
-
               <div className="flex flex-wrap items-center gap-3 text-sm text-zinc-500">
                 <span className="inline-flex items-center gap-2 rounded-full bg-zinc-100 px-3 py-1 font-medium text-zinc-700">
                   <span className="h-2 w-2 rounded-full bg-green-500" aria-hidden />
